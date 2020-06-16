@@ -1,0 +1,240 @@
+[
+  {
+    "id": "46dc6518-2500-471e-84e2-3813f13379c1",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78418b4b-58fd-4b67-b202-b13d4ac9fa1e",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c22adc1d-1de4-42c5-9d00-ec086567900e",
+    "data": [
+      {
+        "text": "I\u0027d like to order a pizza for pickup in ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2b4ae16-2944-45bd-a8d9-f89d05d31dfe",
+    "data": [
+      {
+        "text": "I want a pizza with ",
+        "userDefined": false
+      },
+      {
+        "text": "pepper",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "mushroom",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d1c7e42-26ff-4a2d-b425-c6715f1dc1f1",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza with ",
+        "userDefined": false
+      },
+      {
+        "text": "mushrooms",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92d72cd8-253f-44a6-b9c2-e0d13e27611c",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza with ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " only",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7c7c001-85e0-4d1b-8e01-7411164cd2d5",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " pizza for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 PM",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d88b12ce-fc40-487a-984a-3c710a058872",
+    "data": [
+      {
+        "text": "can I order a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " pizza for pickup ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at noon",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

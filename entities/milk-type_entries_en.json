@@ -1,0 +1,34 @@
+[
+  {
+    "value": "regular milk",
+    "synonyms": [
+      "regular milk",
+      "regular"
+    ]
+  },
+  {
+    "value": "low fat milk",
+    "synonyms": [
+      "low fat milk",
+      "2%",
+      "skim",
+      "low fat"
+    ]
+  },
+  {
+    "value": "non fat milk",
+    "synonyms": [
+      "non fat milk",
+      "skinny",
+      "non-fat",
+      "non fat"
+    ]
+  },
+  {
+    "value": "soy milk",
+    "synonyms": [
+      "soy milk",
+      "soy"
+    ]
+  }
+]

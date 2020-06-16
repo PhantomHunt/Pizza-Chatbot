@@ -1,0 +1,67 @@
+[
+  {
+    "value": "pepper",
+    "synonyms": [
+      "pepper"
+    ]
+  },
+  {
+    "value": "mushroom",
+    "synonyms": [
+      "mushroom",
+      "mushrooms"
+    ]
+  },
+  {
+    "value": "chicken",
+    "synonyms": [
+      "chicken"
+    ]
+  },
+  {
+    "value": "pineapple",
+    "synonyms": [
+      "pineapple"
+    ]
+  },
+  {
+    "value": "onion",
+    "synonyms": [
+      "onion"
+    ]
+  },
+  {
+    "value": "corn",
+    "synonyms": [
+      "corn",
+      "sweet corn"
+    ]
+  },
+  {
+    "value": "vegetarian",
+    "synonyms": [
+      "vegetarian",
+      "veggie",
+      "veg"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese"
+    ]
+  },
+  {
+    "value": "paneer",
+    "synonyms": [
+      "paneer",
+      "cottage cheese"
+    ]
+  },
+  {
+    "value": "ham",
+    "synonyms": [
+      "ham"
+    ]
+  }
+]

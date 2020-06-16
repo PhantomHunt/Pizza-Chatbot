@@ -1,0 +1,78 @@
+{
+  "id": "dbcec7bc-2ee3-4171-945f-ab111307f717",
+  "name": "order.drink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bd4af48-00f9-4d96-9545-dc79594c6683",
+          "name": "drink_composite",
+          "required": false,
+          "dataType": "@drink_composite",
+          "value": "$drink_composite",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "487b84a5-1946-4b25-8371-59802c71be0b",
+          "name": "size",
+          "required": false,
+          "dataType": "@size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "69bbdac4-aa9d-4de7-8260-f4a48a456f2b",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027ve added the drink to your order"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

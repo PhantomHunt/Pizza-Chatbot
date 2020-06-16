@@ -1,0 +1,9 @@
+{
+  "id": "2bde188c-6e04-4a2f-9919-227776847489",
+  "name": "drink_composite",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a9a76a21-cf2c-489e-a09c-b47411add947",
+  "parentId": "310a632c-6f45-451a-b73f-455dc815818d",
+  "rootParentId": "310a632c-6f45-451a-b73f-455dc815818d",
+  "name": "order.pizza - yes",
+  "auto": true,
+  "contexts": [
+    "orderpizza-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderpizza.orderpizza-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, what would you like ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
